@@ -1,0 +1,4 @@
+C:\Users\romkp\source\repos\Arithmetics\Arithmetics\x64\Debug\Arithmetics.vcxproj.AssemblyReference.cache
+C:\Users\romkp\source\repos\Arithmetics\Arithmetics\x64\Debug\Arithmetics.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\romkp\source\repos\Arithmetics\Arithmetics\x64\Debug\Arithmetics.MyForm.resources
+C:\Users\romkp\source\repos\Arithmetics\Arithmetics\x64\Debug\Arithmetics.vcxproj.GenerateResource.cache

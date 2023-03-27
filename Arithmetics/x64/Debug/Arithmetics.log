@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\romkp\source\repos\Arithmetics\Arithmetics\Functions.h(14,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\romkp\source\repos\Arithmetics\Arithmetics\Functions.h(48,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\romkp\source\repos\Arithmetics\Arithmetics\Functions.h(50,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Arithmetics.vcxproj -> C:\Users\romkp\source\repos\Arithmetics\x64\Debug\Arithmetics.exe
